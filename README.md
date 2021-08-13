@@ -23,5 +23,7 @@
 <div>  
     <a href="https://www.twitch.tv/sadmorello" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
     <a href="https://discord.gg/gFTQ3gK4Sa" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href="https://www.linkedin.com/in/murilo-juvêncio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+    <a href="https://www.linkedin.com/in/murilo-juvêncio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/sadmorello/sadmorello/blob/output/github-contribution-grid-snake.svg)
 </div>
