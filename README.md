@@ -1,6 +1,6 @@
 ### Hello, eu sou Murilo
 
-- 🔭 Atualmente trabalhando como Analista de Sistema com as ferramentas: Sistema Protheus (Advpl, SQL Server); Sistema Web (PHP, HTML, CSS, My Sql)
+- 🔭 Atualmente trabalhando como Analista de Sistema com as ferramentas: Sistema Protheus (Advpl, SQL Server); Sistema Web (PHP, HTML, CSS, MySql)
 - 🌱 Estudando Engenharia de Software com interesse na ferramenta C# Asp Net MVC.
 
 ##
