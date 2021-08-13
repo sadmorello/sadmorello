@@ -8,7 +8,7 @@ on:
 job:
   build:
     name: Jobs to update datas
-    runs-on: unbuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: Platene/snk@master
         id: snake-gif
