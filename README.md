@@ -1,10 +1,5 @@
 ### Hello, eu sou Murilo
-
-- 🔭 Atualmente trabalhando como Analista de Sistema com as ferramentas: Sistema Protheus (Advpl, SQL Server); Sistema Web (PHP, HTML, CSS, MySql)
-- 🌱 Estudando Engenharia de Software com interesse na ferramenta C# Asp Net MVC.
-
 ##
-
 <div>
   <a href="https://github.com/sadmorello">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sadmorello&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
